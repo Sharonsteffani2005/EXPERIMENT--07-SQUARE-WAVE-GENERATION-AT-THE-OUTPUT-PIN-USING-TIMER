@@ -1,7 +1,7 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
-### NAME: EZHIL NEVEDHA.K
-### REG.NO: 212223230055
+### NAME: SHARON STEFFANI F
+### REG.NO: 212223110049
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
